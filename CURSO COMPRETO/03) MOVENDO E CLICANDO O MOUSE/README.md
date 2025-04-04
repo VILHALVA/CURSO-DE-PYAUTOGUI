@@ -35,7 +35,7 @@ print("Movimentação e cliques concluídos!")
 ```
 
 ## **🚀 2. Como Executar**  
-1️⃣ **Salve o arquivo** como `mover_e_clicar.py`.  
+1️⃣ **Salve o arquivo** como `CODIGO.py`.  
 2️⃣ **Execute o script:**  
    ```bash
    python CODIGO.py

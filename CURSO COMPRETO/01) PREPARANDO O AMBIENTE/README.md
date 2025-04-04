@@ -36,7 +36,7 @@ sudo apt install scrot
 ```
 
 ## 🔍 **3. TESTAR O AMBIENTE**  
-Crie um arquivo **`teste.py`** e adicione o seguinte código:  
+Crie um arquivo **`CODIGO.py`** e adicione o seguinte código:  
 
 ```python
 import pyautogui
@@ -49,7 +49,7 @@ print(f"Posição atual do cursor: {pyautogui.position()}")
 Agora, execute o script:  
 
 ```bash
-python teste.py
+python CODIGO.py
 ```
 
 Se os valores forem exibidos corretamente, o ambiente está pronto para automação! 🚀  

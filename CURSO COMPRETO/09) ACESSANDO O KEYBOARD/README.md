@@ -14,7 +14,7 @@ pip install pyautogui
 ```
 
 ### **2. Exemplo de Código para Simular a Digitação de Texto**
-Crie um arquivo **`simulando_teclado.py`** e adicione o seguinte código:
+Crie um arquivo **`CODIGO_1.py`** e adicione o seguinte código:
 
 ```python
 import pyautogui
@@ -44,7 +44,7 @@ pip install keyboard
 ```
 
 ### **2. Exemplo de Código para Capturar Teclas Pressionadas**
-Crie um arquivo **`capturando_teclado.py`** e adicione o seguinte código:
+Crie um arquivo **`CODIGO_2.py`** e adicione o seguinte código:
 
 ```python
 import keyboard
@@ -75,7 +75,7 @@ pip install pynput
 ```
 
 ### **2. Exemplo de Código para Monitorar Teclas com `pynput`**
-Crie um arquivo **`monitorando_teclado.py`** e adicione o seguinte código:
+Crie um arquivo **`CODIGO_3.py`** e adicione o seguinte código:
 
 ```python
 from pynput import keyboard
